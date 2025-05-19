@@ -14,6 +14,4 @@ REG-NeRF exhibits resilience to motion blur and low signal-to-noise scenarios, a
 &#9744; The code and data will be made public once the paper is accepted. Stay tuned!
 
 ## Visualization
-<video width="1920" height="1080" controls>
-  <source src="results.mp4" type="video/mp4">
-</video>
+![](results.gif)
